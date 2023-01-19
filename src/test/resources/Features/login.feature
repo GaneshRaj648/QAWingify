@@ -20,11 +20,11 @@ Feature: To Validate the login functionality with valid crendentials
 	  |GANESH@#$%RAJ|Gane@0 43|
 	  |GANESH@1RAJ|Gane@0 43|
 	  |GANESH@#1RAJ|Gane@0 43|
-	  |GANESH@#12RAJ|Gane90436|
+	  |GANESH@#12RAJ|Gane$ $90436|
 	  |GANESH@#&&12345RAJ|Gane 0436|
-	  |GANESH @RAJ|Gane90436|
-	  |GANESH @#RAJ|ganesh|
-	  |GANESH @#$% RAJ|ganes@122|
+	  |GANESH @RAJ|Gane   90436|
+	  |GANESH @#RAJ|gamil.com|
+	  |GANESH @#$% RAJ|www.ganesh.com|
 	  |GANESH @#&& 12345 RAJ|ganes@ 1239|
 	  |ganesh @raj|Ganesh@ 1236|
 	  |ganesh @#raj|Ganesh@ 1236|
