@@ -30,7 +30,7 @@ Feature: To Validate the login functionality with valid crendentials
 	  |ganesh @#raj|Ganesh@ 1236|
 	  |ganesh @#$% raj|Ganesh@1236|
 	  |ganesh @#&& 12345 raj|Ganesh@ 1236 RAJ|
-	  |ganeshraj|Ganesh@ 1236 RAJ|
+	  |ganeshraj|Ganesh@ 1236() RAJ|
 	  |ganesh@raj|Ganesh@ 1236 RA|
 	  |ganesh@#raj|Ganesh@ 1236 Raj|
 	  |ganesh@#$%raj|9043650751|
